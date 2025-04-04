@@ -1,5 +1,7 @@
 ASTROXTELLAR - Space Exploration Quiz Game
 
+Note: The submitted source code includes only the backend because the full project is too large to upload. You can find the complete source code in this repository.
+
 ASTROXTELLAR is an interactive web-based game designed to immerse players in the fascinating world of space exploration. It combines fun and educational quizzes on astronomy and space, challenging players with timed quizzes, a badge system, and a leaderboard. Players can explore space-related content, customize their virtual identity, and share their achievements with others.
 
 
