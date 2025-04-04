@@ -56,7 +56,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/astroxtellar.git
+git clone [https://github.com/yourusername/astroxtellar.git](https://github.com/chamikamunithunga/AstroXTellar-codes)
 Navigate to the project folder:
 
 bash
