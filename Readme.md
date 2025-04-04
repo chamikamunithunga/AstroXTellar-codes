@@ -46,7 +46,7 @@ Version Control: Git/GitHub
 
 Social Media Integration: Twitter, Facebook, Instagram APIs
 
-Hosting: [Your Hosting Platform]
+
 
 Installation
 To set up ASTROXTELLAR locally, follow these steps:
@@ -142,4 +142,16 @@ For any questions or feedback, feel free to reach out:
 Email: munithungac@gmail.com
 
 
-GitHub: https://github.com/chamikamunithunga/AstroXtellar
+GitHub: [https://github.com/chamikamunithunga/AstroXtellar](https://github.com/chamikamunithunga/AstroXTellar-codes)
+
+
+<img width="1440" alt="Screenshot 2025-04-02 at 4 52 10 PM (2)" src="https://github.com/user-attachments/assets/5bd8c1b2-9fa8-4e9d-b84c-d6a8262d2990" />
+
+![2433218 - componment diagram](https://github.com/user-attachments/assets/431ed238-025c-4de8-ac21-1593c7ab882e)
+
+
+
+
+
+
+
